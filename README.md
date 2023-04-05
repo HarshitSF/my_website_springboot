@@ -1,4 +1,4 @@
-# my_website_springboot for sample application
+# my_website_springboot 
 
 Build war package using :  .\mvnw install
 Kill the port: fuser -k 443/tcp
